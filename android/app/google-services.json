@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "338886656336",
+    "firebase_url": "https://push-notification-21a16.firebaseio.com",
+    "project_id": "push-notification-21a16",
+    "storage_bucket": "push-notification-21a16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338886656336:android:44e3312e7be07c2626ac55",
+        "android_client_info": {
+          "package_name": "com.noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338886656336-dejti9oh0tsqgl534nqmfqm1b2pdcnf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa8IBfLil96T0P6kks3wMH6FxS0jvRxSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338886656336-dejti9oh0tsqgl534nqmfqm1b2pdcnf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338886656336:android:0af8bf5691bd38f326ac55",
+        "android_client_info": {
+          "package_name": "com.raayesurvey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338886656336-dejti9oh0tsqgl534nqmfqm1b2pdcnf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa8IBfLil96T0P6kks3wMH6FxS0jvRxSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338886656336-dejti9oh0tsqgl534nqmfqm1b2pdcnf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
